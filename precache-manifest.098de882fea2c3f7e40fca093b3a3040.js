@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae3d6bb737555a538e9a0c67afdbca98",
+    "revision": "5aa1267dcf16e40e80df8ebe49f8bef6",
     "url": "/email-mkt/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/email-mkt/static/js/2.aebacca3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70ce0ae26ac424a1d06e",
-    "url": "/email-mkt/static/js/main.75616676.chunk.js"
+    "revision": "cff1ce7c29d47978d8a7",
+    "url": "/email-mkt/static/js/main.99e9a986.chunk.js"
   },
   {
     "revision": "c854d71eef3c42d3c905",
