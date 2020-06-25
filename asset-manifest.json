@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/email-mkt/static/js/main.99e9a986.chunk.js",
-    "main.js.map": "/email-mkt/static/js/main.99e9a986.chunk.js.map",
+    "main.js": "/email-mkt/static/js/main.e14035a5.chunk.js",
+    "main.js.map": "/email-mkt/static/js/main.e14035a5.chunk.js.map",
     "runtime-main.js": "/email-mkt/static/js/runtime-main.d2a67a04.js",
     "runtime-main.js.map": "/email-mkt/static/js/runtime-main.d2a67a04.js.map",
     "static/css/2.a1b7a17e.chunk.css": "/email-mkt/static/css/2.a1b7a17e.chunk.css",
     "static/js/2.aebacca3.chunk.js": "/email-mkt/static/js/2.aebacca3.chunk.js",
     "static/js/2.aebacca3.chunk.js.map": "/email-mkt/static/js/2.aebacca3.chunk.js.map",
     "index.html": "/email-mkt/index.html",
-    "precache-manifest.098de882fea2c3f7e40fca093b3a3040.js": "/email-mkt/precache-manifest.098de882fea2c3f7e40fca093b3a3040.js",
+    "precache-manifest.e68f47e009a6d4ab6c2d9f34b39972e6.js": "/email-mkt/precache-manifest.e68f47e009a6d4ab6c2d9f34b39972e6.js",
     "service-worker.js": "/email-mkt/service-worker.js",
     "static/css/2.a1b7a17e.chunk.css.map": "/email-mkt/static/css/2.a1b7a17e.chunk.css.map",
     "static/js/2.aebacca3.chunk.js.LICENSE.txt": "/email-mkt/static/js/2.aebacca3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d2a67a04.js",
     "static/css/2.a1b7a17e.chunk.css",
     "static/js/2.aebacca3.chunk.js",
-    "static/js/main.99e9a986.chunk.js"
+    "static/js/main.e14035a5.chunk.js"
   ]
 }
